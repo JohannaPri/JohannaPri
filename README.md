@@ -56,7 +56,7 @@ I’m excited to keep expanding my skills and taking on new challenges that allo
 
 ---
 
-### 📬 How To Contact Me
+### 📬 Contact Me
 
 ***You Can Reach Me On:***
 
