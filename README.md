@@ -7,6 +7,7 @@ Creativity has always been a driving force for me, and throughout my studies, my
 I'm also interested in agile project management, which has been a key part of my learning process. Working within agile frameworks has given me insight into how to lead and collaborate effectively on dynamic projects.
 
 I’m excited to keep expanding my skills and taking on new challenges that allow me to blend design, development, and project management. 
+I welcome the chance to work internationally while having the option for remote work and travel when necessary.
 
 **Don't hesitate to reach out if you'd like to connect or collaborate—I'd love to hear from you!**
 
