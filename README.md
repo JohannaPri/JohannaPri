@@ -48,7 +48,7 @@ I’m excited to keep expanding my skills and taking on new challenges that allo
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johannapri&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ff79c6)
 
