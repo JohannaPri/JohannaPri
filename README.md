@@ -24,6 +24,7 @@ I welcome the chance to work internationally while having the option for remote 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
@@ -35,10 +36,12 @@ I welcome the chance to work internationally while having the option for remote 
 ![NoSQL](https://img.shields.io/badge/NoSQL-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Firebase](https://img.shields.io/badge/Backend%20with-Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
 
 ### Cloud & Hosting
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### UI/UX Design
