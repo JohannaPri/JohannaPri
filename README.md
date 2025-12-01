@@ -54,9 +54,12 @@ I welcome the chance to work internationally while having the option for remote 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johannapri&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ff79c6)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannapri&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff79c6&icon_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johannapri&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=ff79c6&icon_color=ff79c6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannapri&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff79c6)
+
 
 ---
 
