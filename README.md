@@ -1,6 +1,6 @@
  # Hi, I'm Johanna! 
  
-***I'm a 31-year-old aspiring Frontend Developer from Sweden, currently studying at Medieinstitutet, where I’ll graduate in the spring of 2025.***
+***I'm a 32-year-old Frontend Developer from Sweden, graduated from Medieinstitutet in May 2025.***
 
 Creativity has always been a driving force for me, and throughout my studies, my passion for design has grown even stronger. While frontend development offers many possibilities, I’m especially excited about exploring a career where I can blend my technical skills with my love for design. Both graphic and visual design have captured my interest, and I’m excited to deepen my skills in crafting graphic and visual designs that not only captivate users but also ensure intuitive, user-friendly interactions.
 
